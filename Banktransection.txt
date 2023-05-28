@@ -1,0 +1,6 @@
+#Transection Page
+# Day 2 code
+{
+
+print("Hi, welcome to transection")
+}
